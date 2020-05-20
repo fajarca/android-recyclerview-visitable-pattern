@@ -1,9 +1,8 @@
 package io.fajarca.project.visitablepattern
 
-import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import androidx.appcompat.app.AppCompatActivity
 import androidx.recyclerview.widget.LinearLayoutManager
-import io.fajarca.project.visitablepattern.abstraction.BaseItemModel
 import io.fajarca.project.visitablepattern.abstraction.BaseRecyclerViewAdapter
 import io.fajarca.project.visitablepattern.entity.AdBanner
 import io.fajarca.project.visitablepattern.entity.TopProduct
